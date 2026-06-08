@@ -4,6 +4,14 @@ using namespace std;
 //Simulador de Examne de Manejo.
 //Con este simulador podras realizar un examen teorico de manejo, el cual dara preguntas de opcion multiple y se obtendra una calificacion final dependiendo de tu desempeño.
 
+/**
+ * @file SimuladorExamenManejo.cpp
+ * @brief Sistema de simulación para examen teórico de manejo.
+ * @author Ariadna Rivas
+ * @date 07/06/2026
+ * @version 1.0
+ */
+
 void Examen();
 void Menu();
 
